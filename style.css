@@ -1,0 +1,25 @@
+h1{
+    font-family: Cambria;
+    font-size: 35px;
+    color: blue;
+    background-color: black;
+    background-size: 230px;
+    border-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-inline: inherit;
+
+}
+.para1{
+    color: rgb(249, 251, 249);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: unset;
+    background-color: none;
+    background-blend-mode: color-burn;
+}
+.heca{
+    background-color: aqua;
+    background-image: url(butterfly.jpeg);
+    background-position: auto;
+    
+}
